@@ -1,0 +1,5 @@
+# Python reference for numeric comparisons only (the engine itself is C++).
+torch
+transformers
+safetensors
+numpy
